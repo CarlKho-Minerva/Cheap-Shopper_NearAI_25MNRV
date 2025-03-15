@@ -10,6 +10,15 @@ Shop Cheap is an AI shopping assistant built on NEAR AI that helps users find th
 [![NEAR AI](https://img.shields.io/badge/Built_on-NEAR_AI-green)](https://app.near.ai/agents/carlkho.near/shop-cheap/latest)
 [![GitHub URL](https://img.shields.io/badge/View-GitHub_Repo-white)](https://github.com/CarlKho-Minerva/Cheap-Shopper_NearAI_25MNRV)
 
+<div>
+    <a href="https://www.loom.com/share/d8f0ff2f2c0a45629310a40d895c64af">
+      <p>Shop Cheap - Watch Demo Video</p>
+    </a>
+    <a href="https://www.loom.com/share/d8f0ff2f2c0a45629310a40d895c64af">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d8f0ff2f2c0a45629310a40d895c64af-fc9a884628c6b31a-full-play.gif">
+    </a>
+</div>
+
 ## Features
 
 - ✅ Natural language product search
