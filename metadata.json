@@ -1,0 +1,35 @@
+{
+  "category": "agent",
+  "description": "Find the cheapest products from Google Shopping with suggestions for items AI thinks you need.",
+  "tags": [
+    "recommender",
+    "deals",
+    "discounts",
+    "shopping",
+    "https://www.linkedin.com/in/carlkho/"
+  ],
+  "details": {
+    "agent": {
+      "defaults": {
+        "model": "llama-v3p1-70b-instruct",
+        "model_provider": "fireworks",
+        "model_temperature": 1.0,
+        "model_max_tokens": 16384
+      }
+    },
+    "welcome": {
+      "title": "Shop Cheap",
+      "description": "I can help you find the best deals and lowest prices across Google Shopping. Just tell me what product you're looking for, and I'll search for the cheapest options, provide price comparisons, and highlight discounts. For example: 'find cheap headphones', 'compare prices for laptops', 'look for deals on kitchen appliances'."
+    },
+    "icon": "https://img.icons8.com/stickers/512/google-shopping.png",
+    "display_name": "Cheap Shopper",
+    "author": {
+      "name": "Carl Kho",
+      "profile": "https://www.linkedin.com/in/carlkho/",
+      "website": "https://www.linkedin.com/in/carlkho/"
+    }
+  },
+  "show_entry": true,
+  "name": "shop-cheap",
+  "version": "1.0.7"
+}
